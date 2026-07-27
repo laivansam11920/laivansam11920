@@ -1,1 +1,1 @@
-GenAIService().get_response()
+Mây trôi đi đâu mà vội thế nhỉ.
