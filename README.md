@@ -1,1 +1,1 @@
-Xin chào! Tôi có thể giúp gì cho bạn hôm nay?
+GenAIService().get_response()
