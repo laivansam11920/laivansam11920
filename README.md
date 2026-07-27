@@ -1,1 +1,1 @@
-Thế đấy, nực cười nhỉ.
+Nực cười thật, nhưng mà thôi.
