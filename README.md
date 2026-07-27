@@ -1,1 +1,1 @@
-Mây trôi, rồi tan, cứ thế thôi.
+Nực cười thật, mà thôi.
