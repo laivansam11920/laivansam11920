@@ -1,3 +1,3 @@
 <!--start-->
-Tự nhiên thấy buồn ngủ ghê.
+Hình như cái quạt này kêu to hơn mọi khi.
 <!--end-->
