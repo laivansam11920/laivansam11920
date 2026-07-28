@@ -1,3 +1,3 @@
-<!--s--->
+<!--start--->
 Hóa ra là vậy, nực cười nhỉ.
 <!--end--->
