@@ -1,3 +1,3 @@
-<--start-->
-Ừ, nực cười thật...
-<--end-->
+<--s--->
+Hóa ra là vậy, nực cười nhỉ.
+<--end--->
