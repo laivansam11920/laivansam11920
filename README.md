@@ -1,3 +1,3 @@
 <!--start-->
-Đèn đường nay bật sớm thế.
+Tự nhiên thấy buồn ngủ ghê.
 <!--end-->
