@@ -1,3 +1,3 @@
 <!--start-->
-Hình như con mèo nhà hàng xóm lại sang đây rồi.
+Mây hôm nay nhìn giống miếng bông gòn ghê.
 <!--end-->
