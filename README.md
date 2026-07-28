@@ -1,3 +1,3 @@
 <!--start-->
-Ha, thôi thì cứ vậy đi.
+Đèn đường nay bật sớm thế.
 <!--end-->
