@@ -1,3 +1,3 @@
 <!--start-->
-Hình như mình quên tắt đèn rồi.
+Hình như con mèo nhà hàng xóm lại sang đây rồi.
 <!--end-->
