@@ -1,3 +1,3 @@
 <!--start-->
-Hài nhỉ, mà thôi.
+Ha, thôi thì cứ vậy đi.
 <!--end-->
