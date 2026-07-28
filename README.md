@@ -1,3 +1,3 @@
 <!--start--->
-Nực cười thật, mà thôi.
+Ừ thì, nực cười thật...
 <!--end--->
