@@ -1,3 +1,3 @@
 <!--start-->
-Tự nhiên thấy mây hôm nay lạ ghê.
+Tự nhiên nhớ cái mùi sách mới.
 <!--end-->
