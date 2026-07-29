@@ -1,3 +1,3 @@
 <!--start-->
-Mây hôm nay nhìn giống miếng bông gòn ghê.
+Tự nhiên thấy mây hôm nay lạ ghê.
 <!--end-->
