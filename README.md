@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi mà sao vẫn chưa mưa.
+Trời tối rồi
 <!--end-->
