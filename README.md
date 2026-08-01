@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay sao lại im thế.
+Trời xanh lại đẹp
 <!--end-->
