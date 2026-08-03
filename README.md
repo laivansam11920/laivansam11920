@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi
+Mưa đang rơi nhẹ nhàng ngoài kia.
 <!--end-->
