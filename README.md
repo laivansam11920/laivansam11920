@@ -1,3 +1,3 @@
 <!--start-->
-Trời đêm hôm nay thật yên tĩnh.
+Trời tối rồi.
 <!--end-->
