@@ -1,3 +1,3 @@
 <!--start-->
-Cửa sổ mở ra, gió nhẹ thổi vào.
+Ngày mai có lẽ sẽ mưa.
 <!--end-->
