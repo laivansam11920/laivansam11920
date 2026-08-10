@@ -1,3 +1,3 @@
 <!--start-->
-Ngày mai có lẽ sẽ mưa.
+Mưa hôm nay nghe có vẻ yên tĩnh.
 <!--end-->
