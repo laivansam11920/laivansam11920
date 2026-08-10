@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay sao đẹp quá
+Cửa sổ mở ra, gió nhẹ thổi vào.
 <!--end-->
