@@ -1,3 +1,3 @@
 <!--start-->
-Mưa đang rơi nhẹ nhàng ngoài kia.
+Trời đêm hôm nay thật yên tĩnh.
 <!--end-->
