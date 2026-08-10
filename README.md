@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi.
+Trời nắng mà lòng lại u ám.
 <!--end-->
