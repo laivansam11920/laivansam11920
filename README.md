@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay trăng sáng thật đẹp
+Mưa đang rơi nhẹ nhàng bên ngoài.
 <!--end-->
