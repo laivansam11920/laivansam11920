@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối dần rồi
+Trời tối rồi
 <!--end-->
