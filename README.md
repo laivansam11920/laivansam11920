@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay trăng sáng quá
+Đêm nay sao sáng quá
 <!--end-->
