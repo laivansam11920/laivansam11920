@@ -1,3 +1,3 @@
 <!--start-->
-Mưa nhẹ nhàng ngoài cửa sổ.
+Trời tối rồi.
 <!--end-->
