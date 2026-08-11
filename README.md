@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi mà gió vẫn hiền
+Đêm nay thật im lặng
 <!--end-->
