@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay sao sáng lắm.
+Mưa rồi, trời mát quá
 <!--end-->
