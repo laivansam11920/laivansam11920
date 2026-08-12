@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay sao lại im ắng thế nhỉ
+Mưa vẫn rơi nhẹ nhàng ngoài trời.
 <!--end-->
