@@ -1,3 +1,3 @@
 <!--start-->
-Trời xanh mà sao lại buồn thế này
+Trời xanh thật đẹp hôm nay
 <!--end-->
