@@ -1,3 +1,3 @@
 <!--start-->
-Mưa nhẹ hôm nay thật đẹp
+Trời xanh thật đẹp hôm nay
 <!--end-->
