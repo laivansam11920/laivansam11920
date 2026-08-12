@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi mà gió vẫn hiền
+Trời xanh thật đẹp hôm nay
 <!--end-->
