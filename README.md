@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay sao lại yên tĩnh thế.
+Mưa nhẹ hôm nay thật đẹp
 <!--end-->
