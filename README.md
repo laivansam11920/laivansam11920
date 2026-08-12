@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay sao sáng lắm.
+Đêm nay sao lại yên tĩnh thế.
 <!--end-->
