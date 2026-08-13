@@ -1,3 +1,3 @@
 <!--start-->
-Cũng được thôi
+Còn một ngày nữa thôi rồi hết tuần.
 <!--end-->
