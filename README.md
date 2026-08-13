@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi mà vẫn chưa thấy sao.
+Trời tối rồi
 <!--end-->
