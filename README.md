@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay yên tĩnh thật.
+Cũng được thôi
 <!--end-->
