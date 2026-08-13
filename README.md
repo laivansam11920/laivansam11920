@@ -1,3 +1,3 @@
 <!--start-->
-Còn một ngày nữa thôi rồi hết tuần.
+Mưa vẫn rơi ngoài cửa sổ
 <!--end-->
