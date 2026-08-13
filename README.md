@@ -1,3 +1,3 @@
 <!--start-->
-Trời hôm nay đẹp thật.
+Đêm nay trăng sáng quá.
 <!--end-->
