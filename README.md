@@ -1,3 +1,3 @@
 <!--start-->
-Mưa vẫn rơi ngoài cửa sổ
+Trời tối rồi.
 <!--end-->
