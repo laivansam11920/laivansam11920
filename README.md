@@ -1,3 +1,3 @@
 <!--start-->
-Mưa hôm nay nghe cũng hay.
+Trời hôm nay đẹp thật.
 <!--end-->
