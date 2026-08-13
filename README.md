@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi
+Trời xanh lạ thường.
 <!--end-->
