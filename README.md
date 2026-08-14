@@ -1,3 +1,3 @@
 <!--start-->
-Gió ngày hôm nay lạ lắm.
+Đêm nay sao đẹp quá
 <!--end-->
