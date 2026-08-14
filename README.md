@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi
+Trời tối rồi, chắc lại là một đêm dài.
 <!--end-->
