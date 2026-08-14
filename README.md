@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi, chắc lại là một đêm dài.
+Mưa vẫn rơi nhẹ nhàng ngoài cửa sổ.
 <!--end-->
