@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay sao sáng quá
+Trời tối rồi mà gió vẫn chưa ngừng.
 <!--end-->
