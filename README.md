@@ -1,3 +1,3 @@
 <!--start-->
-Mới mua một tách cà phê
+Mưa ơi, hãy đến sớm thôi.
 <!--end-->
