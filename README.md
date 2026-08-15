@@ -1,3 +1,3 @@
 <!--start-->
-Trời âm u quá.
+Trời tối rồi mà gió vẫn hiền.
 <!--end-->
