@@ -1,3 +1,3 @@
 <!--start-->
-Trời xanh quá.
+Trời tối mà sao vẫn chưa ngủ.
 <!--end-->
