@@ -1,3 +1,3 @@
 <!--start-->
-Trời xanh lại mưa.
+Trời xanh quá.
 <!--end-->
