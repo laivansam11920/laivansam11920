@@ -1,3 +1,3 @@
 <!--start-->
-Mưa hôm nay nhẹ nhàng quá.
+Mưa về nhẹ nhàng
 <!--end-->
