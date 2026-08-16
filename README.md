@@ -1,3 +1,3 @@
 <!--start-->
-Đêm nay trăng sáng quá
+Mưa thật êm ái hôm nay.
 <!--end-->
