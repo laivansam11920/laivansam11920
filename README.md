@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối mà sao vẫn chưa ngủ.
+Đêm nay sao lại im ắng thế
 <!--end-->
