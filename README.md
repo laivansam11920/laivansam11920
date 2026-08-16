@@ -1,3 +1,3 @@
 <!--start-->
-Trời nắng quá.
+Mưa hôm nay nhẹ nhàng quá.
 <!--end-->
