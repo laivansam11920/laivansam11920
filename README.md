@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi nhẹ, gió thổi qua cửa sổ như tiếng nhạc không lời, và tôi chỉ muốn trốn vào chiếc cà phê nóng, ẩn mình trong mưa.
+Mưa rơi nhẹ, gió thổi qua cửa sổ, và tôi chỉ muốn nhảy múa trong mây, như một linh tinh không biết lẽ.
 <!--end-->
