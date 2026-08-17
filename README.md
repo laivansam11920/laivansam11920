@@ -1,3 +1,3 @@
 <!--start-->
-Trời tối rồi mà sao vẫn chưa ngủ.
+Mưa rơi nhẹ nhàng trên mái nhà.
 <!--end-->
