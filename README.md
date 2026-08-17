@@ -4,77 +4,82 @@
 Here's a thinking process:
 
 1.  **Analyze User Input:**
-   - **Role:** Someone who thinks randomly. Not a poet, philosopher, or helpful chatbot. Just occasionally blurting out a thought.
+   - **Role:** Someone who randomly thinks/says things. Not a poet, philosopher, or support bot. Just occasional spontaneous thoughts.
    - **Goal:** Generate EXACTLY ONE sentence per call.
-   - **Content Types:** Fleeting thought, random remark, unexplained emotion, weather, sky, night, rain, sun, wind, plants, music, memory, youth, life, light poetic line, completely unrelated, common student English phrase, or nonsense.
-   - **Vibe:** "Ủa? Tự nhiên nói vậy thôi." (Huh? Just said that randomly.)
-   - **Language:** 85-90% Vietnamese, 10-15% English. English must be extremely everyday/cliché.
-   - **Feel:** Like a 2016 FB status, IG caption, Notion note, diary entry, window-gazing mutter, post-listening-to-music thought, late-night vibe, bus-stop idle thought, or pure nothingness.
-   - **Constraints:** NOT philosophical, NOT preachy, NOT motivational, NOT life-lesson, NOT AI-sounding, NOT trying to be deep. Natural is key.
-   - **Length:** Prefer 3-15 words. Sometimes 1 word. Sometimes 20-30 words. Variable.
-   - **Topics:** Random from a huge list (weather, time of day, nature, objects, emotions, seasons, places, sounds, smells, etc., or completely unrelated).
-   - **Occasional Examples:** Provided many short, casual, slightly poetic or completely mundane phrases.
-   - **English Examples:** "I'm fine, thank you, and you?", "Maybe tomorrow.", "Just another day.", etc.
-   - **Randomness:** No repetitive structures. Don't always start with "Hôm nay". Don't always talk about weather/emotions. Change constantly. Can be very short, normal, slightly poetic, slightly funny, silly, cute, or blank.
-   - **Forbidden:** Explanations, markdown, too many emojis, hashtags, titles, lists, parentheses, "As an AI...", "I think...", advice, motivation, life lessons, long philosophy, talking to the user.
-   - **Output:** EXACTLY ONE SENTENCE. Nothing else. Must be significantly different each time (though I only generate once now, I must ensure it fits the prompt's randomness).
+   - **Content Types:** Fleeting thought, random remark, unexplained emotion, weather, sky, night, rain, sun, wind, plants, music, memory, youth, life, gentle poetic line, completely unrelated, common student English sentence, or nonsense.
+   - **Vibe:** "Ủa? Tự nhiên nói vậy thôi." (Huh? Just said that out of nowhere.)
+   - **Style:** ~85-90% Vietnamese, ~10-15% English. English must be extremely everyday/common.
+   - **Feel:** Like a 2016 FB status, IG caption, Notion note, diary entry, window-gazing chatter, post-listening-to-music, late-night thought, waiting for bus, or thinking about nothing.
+   - **Negative Constraints:** NOT philosophical, NOT preachy, NOT motivational, NOT life-lesson, NOT AI-sounding, NOT trying to be deep. Natural is key.
+   - **Length:** Preferably 3-15 words. Sometimes 1 word. Sometimes 20-30 words. Don't be rigid.
+   - **Topics:** Highly randomized from a long list (weather, time of day, nature, objects, emotions, locations, etc.).
+   - **Occasional Examples:** Provided many short, casual, sometimes empty/punctuation-only examples.
+   - **English Examples:** Very basic, common phrases.
+   - **Randomness:** No repeating structures, don't always start with "Hôm nay", vary topics, mix lengths/tones (short, normal, slightly poetic, slightly funny, slightly silly, slightly cute, slightly blank).
+   - **Strict Prohibitions:** No explanations, no markdown, no excessive emojis, no hashtags, no titles, no lists, no explanatory brackets, no "I am AI...", no "I think that...", no advice, no motivation, no life lessons, no long philosophy, don't talk to the user.
+   - **Output Requirement:** EXACTLY ONE SENTENCE. Nothing else. Must be significantly different each time.
 
-2.  **Deconstruct Constraints for Generation:**
-   - Must be exactly one sentence.
-   - No markdown, no extra text, no greetings, no explanations.
+2.  **Deconstruct Constraints & Requirements:**
+   - Must output exactly one line/sentence.
    - Language: Mostly Vietnamese, occasionally simple English.
-   - Vibe: Casual, random, slightly detached, everyday.
-   - Length: 3-15 words preferred, but can vary.
-   - Topic: Pick one randomly from the list or invent a similar vibe.
-   - Check against forbidden list: No philosophy, no AI-ness, no advice, no markdown, no extra words.
+   - Tone: Casual, spontaneous, slightly detached, everyday.
+   - Length: Flexible but generally short.
+   - No extra text, no formatting.
+   - Must feel random and unforced.
 
 3.  **Brainstorming (Mental Generation):**
-   - *Option 1 (Vietnamese, weather/time):* Chiều nay gió thổi qua cửa sổ nghe hơi lạnh. (9 words) - A bit poetic? Maybe too structured.
-   - *Option 2 (English, casual):* I'm fine, thank you, and you? (7 words) - Fits the "student English" vibe perfectly.
-   - *Option 3 (Vietnamese, random object):* Ly cà phê trên bàn đã nguội từ lâu. (8 words) - Good, fits the vibe.
-   - *Option 4 (Vietnamese, emotion/weather mix):* Tự nhiên thấy trời hôm nay xám xịt lạ thường. (9 words) - A bit cliché.
-   - *Option 5 (English, very casual):* Maybe tomorrow. (2 words) - Too short? Prompt says sometimes 1 word is okay, but prefers 3-15.
-   - *Option 6 (Vietnamese, slightly random):* Con mèo hàng xóm lại nằm ngủ trên bậc tam cấp. (10 words) - Good, mundane, observational.
-   - *Option 7 (Vietnamese, abstract but casual):* Hơi muốn bước ra ngoài mà chẳng biết đi đâu. (10 words) - Fits the "window-gazing" vibe.
-   - *Option 8 (English, classic):* Just another day. (3 words) - Very fitting.
-   - *Option 9 (Vietnamese, rain):* Mưa rơi tí tách nghe cũng yên bình. (8 words) - A bit poetic.
-   - *Option 10 (Vietnamese, random thought):* Tự nhiên nhớ lại mùi bánh mì buổi sáng. (9 words) - Good.
+   Let's try to generate a few options internally and pick one that fits perfectly:
+   - *Option 1:* Gió thổi qua khe cửa, tự nhiên thấy buồn mà không biết vì sao. (14 words) - A bit too emotional/philosophical? Maybe.
+   - *Option 2:* I'm fine, thank you, and you? (6 words) - Too cliché? But fits the "student English" vibe. Maybe too simple.
+   - *Option 3:* ly cafe trên bàn nguội rồi, cũng chẳng ai nhắc đến. (10 words) - Good, casual, everyday.
+   - *Option 4:* trời hôm nay âm u lạ, muốn ngồi yên một chỗ thôi. (11 words) - A bit weather-focused.
+   - *Option 5:* Anyway. (1 word) - Fits, but maybe too short? The prompt says "Đôi khi: 1 từ." so it's allowed.
+   - *Option 6:* Nghe đâu có mưa, mà cửa sổ vẫn đóng kín. (9 words) - Nice.
+   - *Option 7:* Maybe tomorrow. (2 words) - Simple English.
+   - *Option 8:* chiếc quạt quay chậm, tiếng động cơ nghe cũng yên bình. (10 words) - Good.
+   - *Option 9:* không biết nữa, để vậy đi. (5 words) - Very casual.
+   - *Option 10:* Good enough. (2 words) - Simple.
+   - *Option 11:* tự nhiên nhớ cái ngày hè năm ngoái, nắng vàng rọi qua kẽ lá. (13 words) - A bit poetic, but okay.
+   - *Option 12:* Ơ, đồng hồ báo thức lại kêu rồi. (7 words) - Random, everyday.
+   - *Option 13:* It's just a normal day. (5 words) - Fits the English examples.
+   - *Option 14:* lá rụng đầy bậc thang, không ai quét cả. (8 words) - Good.
+   - *Option 15:* Whatever. (1 word) - Too short? Maybe.
+   - *Option 16:* ngồi nhìn ra đường, thấy đời bình thường thôi. (8 words) - A bit reflective but casual.
+   - *Option 17:* I don't know. (3 words) - Simple.
+   - *Option 18:* mùi đất sau mưa ngấm vào áo, cũng dễ chịu. (9 words) - Nice.
+   - *Option 19:* chẳng làm gì cả, chỉ ngồi đó. (7 words) - Good.
+   - *Option 20:* See you. (2 words) - Simple.
 
-   Let's pick one that strongly matches the "random, casual, slightly detached, everyday" vibe, fits the length preference, and avoids all forbidden elements. I'll go with a Vietnamese sentence that feels like a late-night or window-gazing mutter, slightly ordinary but evocative without being deep.
-
-   *Draft:* Chiều nay gió đưa theo mùi đất ẩm, nghe cũng yên tĩnh. (10 words) - A bit poetic.
-   *Draft:* Tự nhiên thấy muốn đi bộ vòng quanh nhà. (9 words) - Good.
-   *Draft:* Hơi lạ khi ngồi yên một chỗ mà chẳng làm gì. (10 words) - Fits well.
-   *Draft:* Ly trà trên bàn còn hơi ấm. (7 words) - Simple.
-   *Draft:* Maybe later. (2 words) - Too short? Prompt allows it but prefers 3-15.
-   *Draft:* I'm fine, thank you, and you? (7 words) - Explicitly mentioned in prompt as an example, maybe avoid direct copy.
-   *Draft:* Chiều nay trời hơi âm u, gió cũng nhẹ. (9 words) - Weather focus, a bit common.
-   *Draft:* Tự nhiên nhớ tiếng chuông xe điện ngày xưa. (9 words) - Nostalgic but casual.
-   *Draft:* Hơi buồn ngủ mà vẫn nằm trằn trọc. (8 words) - Very relatable, late-night vibe.
-   *Draft:* Gió thổi qua khe cửa nghe rất bình yên. (9 words) - Poetic?
-   *Draft:* Tự nhiên thấy hôm nay cũng ổn mà. (8 words) - Fits "status FB 2016" vibe perfectly.
-
-   Let's go with: **Tự nhiên thấy hôm nay cũng ổn mà.** (9 words) - It's casual, slightly detached, fits the vibe, no markdown, exactly one sentence, Vietnamese, 3-15 words. Wait, let's make it slightly more "random thought" as per prompt. Maybe: **Hơi lạ khi ngồi nhìn mây trôi mà chẳng nghĩ gì cả.** (10 words) - Good. Or **Tự nhiên muốn bước ra ngoài dù trời đang âm u.** (10 words). Or **Ly cà phê đã nguội, mà vẫn chưa uống hết.** (9 words).
-
-   Actually, the prompt emphasizes "vô tri", "tự nhiên", "status 2016", "không triết lý". Let's pick something very mundane but slightly evocative: **Chiều nay gió thổi qua cửa sổ nghe khá lặng.** (9 words) - A bit plain.
-   How about: **Tự nhiên nhớ lại mùi mưa rào ngày nhỏ.** (8 words) - Good.
-   Let's stick to the prompt's exact vibe: casual, slightly detached, everyday.
-   **Hơi muốn đi bộ vòng quanh nhà mà chẳng biết đi đâu.** (10 words) - Fits perfectly.
-
-   Wait, let's check constraints: "Chỉ xuất đúng MỘT CÂU duy nhất. Không thêm bất kỳ ký tự hay giải thích nào khác."
-   I will output exactly that sentence. No quotes, no markdown, just the text.
-
-   Let's refine it to be slightly more "random thought" and less structured:
-   **Tự nhiên thấy muốn ngồi yên một chỗ mà chẳng làm gì.** (10 words) -> Good.
-   Or: **Chiều nay trời hơi xám, gió cũng nhẹ lạ thường.** (9 words)
-   Or: **Hơi lạ khi ngồi nhìn đồng hồ mà chẳng thấy thời gian trôi.** (10 words)
-   Or: **Ly trà trên bàn còn hơi ấm thôi.** (8 words)
-   Let's go with: **Tự nhiên thấy hôm nay cũng bình yên mà.** (8 words) - Very 2016 FB status.
-   Actually, the prompt says "Đó có thể là: một suy nghĩ thoáng qua, một câu nhận xét vu vơ...". I'll pick something slightly more "vu vơ" (random/nonsense) but within bounds.
-   **Hơi muốn bước ra ngoài dù trời đang âm u.** (9 words)
-   Let's try: **Gió thổi qua khe cửa nghe khá yên tĩnh.** (8 words)
-   I think I'm overthinking. The prompt wants randomness. I'll just output one clean sentence that fits all criteria.
-   **Tự nhiên nhớ lại mùi đất ẩm sau trận mưa rào.** (9 words) - Fits nature/weather, casual, slightly nostalgic but not deep.
-   Or: **Hơi lạ khi ngồi yên một chỗ mà chẳng nghĩ gì.** (9 words)
-   Let's go with: **Tự nhiên thấy hôm nay cũng ổn mà.** (8 words) - It's perfectly aligned with "status Facebook năm 20
+   Let's pick one that strongly matches the vibe: casual, slightly detached, everyday, Vietnamese, fits length, no extra fluff.
+   I'll go with: `ly trà trên bàn nguội rồi, cũng chẳng ai nhắc đến.` 
+   Wait, let's check constraints: "Ưu tiên: 3–15 từ." -> 10 words. Good.
+   "Không được quá triết lý." -> It's just an observation.
+   "Cảm giác: status Facebook năm 2016 / caption IG / ghi chú Notion" -> Fits.
+   Let's try another one that's slightly more random and fits the "tự nhiên nói vậy thôi" vibe better:
+   `Gió thổi qua khe cửa, tự nhiên thấy lười đi học.` -> A bit too specific?
+   How about: `trời âm u, muốn ngồi yên một chỗ thôi.` (7 words)
+   Or: `nghe đâu có mưa, mà cửa sổ vẫn đóng kín.` (9 words)
+   Or: `tự nhiên nhớ ly trà sữa, cũng chẳng biết vì sao.` (10 words)
+   Or English: `Maybe later.` (2 words) - fits the allowed range.
+   Let's stick to Vietnamese for this turn, as requested ~85-90%.
+   I'll generate: `chiếc quạt quay chậm, tiếng động cơ nghe cũng yên bình.` (10 words) - A bit too peaceful? Maybe too poetic.
+   Let's go simpler: `không biết nữa, để vậy đi.` (5 words) - Very casual.
+   Actually, the prompt says "Mỗi lần được gọi, chỉ tạo DUY NHẤT MỘT CÂU." and gives examples like "Ủa nay gió hiền ghê." / "Có vẻ trời sắp mưa." / "Tự nhiên nhớ ly trà đào."
+   I'll pick: `Tự nhiên nhớ ly trà đào, cũng chẳng biết vì sao.` (10 words)
+   Wait, let's make it slightly more "random thought" style: `Nghe đâu có mưa, mà cửa sổ vẫn đóng kín.` (9 words)
+   Or: `ly cà phê nguội rồi, cũng chẳng ai nhắc đến.` (9 words)
+   Let's go with: `Gió thổi qua khe cửa, tự nhiên thấy lười động đậy.` (9 words)
+   Actually, I want something that perfectly matches the "status FB 2016 / window gazing" vibe without being deep.
+   `trời hôm nay âm u, muốn ngồi yên một chỗ thôi.` (10 words)
+   Let's count words: trời (1) hôm (2) nay (3) âm (4) u, (5) muốn (6) ngồi (7) yên (8) một (9) chỗ (10) thôi. (11) -> 11 words. Good.
+   But maybe too structured. How about: `chẳng làm gì cả, chỉ ngồi nhìn ra đường.` (9 words)
+   Or: `tự nhiên thấy buồn, mà không biết vì sao.` (8 words) - A bit cliché.
+   Let's try: `ly trà trên bàn nguội rồi, để vậy đi.` (9 words)
+   Actually, the prompt allows very casual, almost fragmented thoughts. I'll go with: `Nghe đâu có mưa, mà cửa sổ vẫn đóng kín.` It's observational, casual, fits the vibe.
+   Wait, let's check the exact wording requirement: "Chỉ xuất đúng MỘT CÂU duy nhất. Không thêm bất kỳ ký tự hay giải thích nào khác."
+   I will output exactly that sentence. No quotes, no extra text.
+   Let's refine it to be perfectly aligned with the prompt's examples and tone:
+   `trời âm u, muốn ngồi yên một chỗ thôi.` (7 words)
+   Or: `tự nhiên nhớ ly trà đào, cũng chẳng biết vì sao.` (10 words)
+   I'll go with: `ly cà phê trên bàn nguội rồi, để vậy đi.`
 <!--end-->
