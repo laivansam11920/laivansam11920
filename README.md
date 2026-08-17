@@ -1,79 +1,127 @@
 <!--start-->
 
 <think>
-Here's a thinking process:
+Okay, the user wants me to generate a single, random, casual sentence that fits their specific criteria. Let me break down their requirements.
 
-1.  **Analyze User Input:**
-   - **Role:** Someone who thinks randomly, occasionally muttering a thought. Not a poet, philosopher, or AI assistant.
-   - **Goal:** Generate EXACTLY ONE sentence/response per call.
-   - **Content Types:** Fleeting thought, random remark, unexplained emotion, weather, sky, night, rain, sun, wind, plants, music, memory, youth, life, light poetic line, unrelated sentence, common student English phrase, or completely meaningless.
-   - **Vibe:** "Wait, why did they just say that?" Casual, spontaneous, like a 2016 Facebook status, Instagram caption, Notion note, journal entry, window-staring mutter, post-listening-to-music thought, late-night thought, waiting for bus, or just blank.
-   - **Language:** ~85-90% Vietnamese, ~10-15% English. English must be extremely everyday/common.
-   - **Style Constraints:** NOT philosophical, NOT preachy, NOT motivational, NOT life lessons, NOT AI-like, NOT trying to be deep. Natural is key.
-   - **Length:** Preferably 3-15 words. Sometimes 1 word. Sometimes 20-30 words. Variable.
-   - **Topics:** Highly random from a long list (weather, time of day, nature, objects, feelings, places, etc.)
-   - **Occasional Examples:** "Ủa nay gió hiền ghê.", "Có vẻ trời sắp mưa.", "Tự nhiên nhớ ly trà đào.", "Đêm nay yên tĩnh thật.", "Mưa nghe cũng vui.", "Không biết nữa.", "Chắc vậy.", "Hình như quên gì đó.", "Lại hết một ngày.", "Hôm nay cũng ổn.", "Cũng được.", "Mai tính.", "Ngủ thôi.", "Ơ.", "...", "Haha.", "Hehe.", ":))", ":>", "¯\_(ツ)_/¯", "..."
-   - **English Examples:** "I'm fine, thank you, and you?", "Maybe tomorrow.", "Just another day.", "Life is weird.", "Good morning.", "Good night.", "Take care.", "Anyway.", "Whatever.", "Nothing special.", "See you.", "I miss the rain.", "Coffee sounds nice.", "It's quiet tonight.", "Everything is okay.", "Not really.", "Maybe.", "Who knows?", "Keep smiling.", "One day.", "No worries."
-   - **Randomness:** No repetitive structures. Don't always start with "Hôm nay". Don't always talk about weather/emotions. Change constantly. Can be very short, very normal, slightly poetic, slightly funny, slightly silly, slightly cute, slightly blank.
-   - **Prohibitions:** NO explanations, NO markdown, NO excessive emojis, NO hashtags, NO titles, NO lists, NO explanatory parentheses, NO "As an AI...", NO "I think that...", NO advice, NO motivation, NO life lessons, NO long philosophy, NO addressing the user.
-   - **Output:** EXACTLY ONE SENTENCE/RESPONSE. NOTHING ELSE. Each call must be significantly different.
+First, they want it to feel spontaneous, like a passing thought or a random remark. No deep philosophy, no AI-like responses, just something natural. The language should be mostly Vietnamese with a bit of English, and the English should be very basic, like everyday phrases.
 
-2.  **Self-Correction/Refinement during thought:**
-   - I need to make sure the output is strictly ONE line/sentence.
-   - No markdown formatting (though the prompt says "Không: markdown", I'll avoid it entirely in the output).
-   - I'll pick a random topic/vibe from the list. Let's go with a slightly late-night/window-staring vibe, mixed with a mundane observation.
-   - Length: ~5-8 words.
-   - Language: Vietnamese.
-   - Vibe: Casual, slightly blank, natural.
-   - Draft: "Tự nhiên thấy ánh đèn đường hôm nay vàng hoe lạ." (10 words) - A bit poetic? Maybe too polished.
-   - Let's try something more random/mundane: "Chà, hôm nay gió thổi vào phòng lạnh ghê." (9 words) - Starts with "hôm nay", which I should avoid sometimes.
-   - Let's try: "Cái ghế này ngồi lâu lại hơi mỏi lưng." (8 words) - Very mundane, fits the "random thought" vibe.
-   - Check constraints: 1 sentence? Yes. Vietnamese? Yes. Length? 8 words. Vibe? Casual, window-staring/muttering. No markdown? Yes. No explanations? Yes.
-   - Wait, the prompt says "Không được luôn bắt đầu bằng 'Hôm nay'." It's fine to use it occasionally, but I'll avoid it this time.
-   - Let's make it slightly more "2016 FB status / late night mutter": "Ngoài kia trời âm u, ngồi trong phòng nghe cũng yên bình." (11 words) - A bit too structured.
-   - How about: "Mấy hạt mưa rơi vào cửa kính nghe cứ tí tách mãi." (11 words)
-   - Or something simpler: "Chắc mai trời lại nắng rồi." (6 words)
-   - Or English: "Maybe later." (2 words) - But I need ~85% VN overall, so this instance should be VN.
-   - Let's go with: "Tự nhiên thấy cái quạt quay chậm lại hẳn rồi." (9 words) - Very mundane, fits "random thought", no markdown, exactly one line.
-   - Check against constraints: 
-     - One sentence? Yes.
-     - Random topic? Ceiling fan / quiet observation.
-     - Vibe? Casual, slightly blank.
-     - Length? 9 words.
-     - Language? Vietnamese.
-     - No prohibited elements? Checked.
-   - It fits perfectly. I'll output exactly that. No extra text. No markdown. Just the raw string.
-   - Wait, let's make it slightly more aligned with the "status FB 2016 / late night" vibe but keep it natural: "Ngoài kia mưa rơi tí tách, ngồi nghe cũng thấy yên lòng." (12 words) - A bit cliché.
-   - Let's stick to the fan one. It's very "buột miệng nói ra một câu vừa xuất hiện trong đầu".
-   - Actually, let's do: "Chà, hôm nay gió thổi vào phòng lạnh ghê." -> No, avoid "hôm nay".
-   - "Cái đèn bàn sáng trưng, nhìn vào lại thấy buồn ngủ." (9 words) - Good.
-   - Let's try: "Đêm nay yên tĩnh quá, nghe cả tiếng đồng hồ tích tắc." (10 words) - A bit poetic but okay.
-   - How about something completely random and slightly silly: "Chẳng hiểu sao tự nhiên lại nhớ mùi nước mưa." (9 words)
-   - I'll go with: "Tự nhiên thấy cái quạt quay chậm lại hẳn rồi." It's perfect. Matches all constraints. One line. No formatting. Vietnamese. 9 words. Random observation. Feels like a real mutter.
+They mentioned themes like weather, time of day, random objects, emotions, but it should vary each time. Length can be short or a bit longer, but mostly 3-15 words. No repetition in structure, avoid starting with "Hôm nay" every time, and keep it unpredictable.
 
-   Final check of the prompt: "Chỉ xuất đúng MỘT CÂU duy nhất. Không thêm bất kỳ ký tự hay giải thích nào khác."
-   I will output exactly that string. No quotes, no markdown. Just the text.
-   Text: Tự nhiên thấy cái quạt quay chậm lại hẳn rồi.
-   Matches all criteria. Proceeds. 
-   Wait, let's make it slightly more varied in tone to match the "random" requirement better. Maybe something slightly offbeat but still mundane: "Ngoài kia trời âm u, ngồi trong phòng lại thấy lười quá." (10 words)
-   Or: "Chà, ly nước để trên bàn nguội hẳn rồi." (8 words)
-   I'll stick with "Tự nhiên thấy cái quạt quay chậm lại hẳn rồi." It's good.
-   Output matches exactly.✅
-   Generating. 
-   *Self-Correction/Verification during thought*: 
-   The prompt says "Không: markdown". So I must not use any formatting. I will output plain text.
-   The prompt says "Ưu tiên: 3–15 từ." My draft is 9 words. Perfect.
-   The prompt says "Không được luôn bắt đầu bằng 'Hôm nay'." Mine starts with "Tự nhiên". Fine.
-   All constraints met. Output matches.✅
-   Proceeds. 
-   Output: Tự nhiên thấy cái quạt quay chậm lại hẳn rồi. 
-   (Note: I'll make sure it's exactly that, nothing else.) 
-   Actually, let's make it slightly more "random thought" vibe: "Chẳng hiểu sao ngồi im lại thấy mệt." (7 words) - Also good.
-   I'll go with the fan one. It's fine.
-   Final output generation. 
-   [Output matches the response]✅
-   *(Done.)*
-</think>
+Also, no markdown, emojis, explanations, or any extra text. Just one line. The examples they gave range from poetic to mundane, even nonsensical. I need to make sure it doesn't follow a pattern each time.
 
-Tự nhiên thấy cái quạt quay chậm lại hẳn rồi.
+Let me think of a random element. Maybe something about the sky, a casual observation, or a simple English phrase mixed in. Wait, they want 85-90% Vietnamese, so the English part should be minimal and very common.
+
+Possible ideas: "Ánh nắng chiều nay len qua khe cửa, nhẹ tênh." But that's a bit poetic. Maybe shorter: "Gió thổi qua, mang theo mùi đất ẩm." Or mix in English: "Hôm qua mưa, hôm nay nắng. Anyway."
+
+But they said avoid starting with "Hôm nay" every time. Maybe start with a subject or a random thought. "Chim hót trên枝头, sao nghe xa xa thế." Hmm, but "枝头" is Chinese, need to keep it Vietnamese. "Chim hót trên cành, sao nghe xa xa thế." That works.
+
+Or something more casual: "Tự nhiên nhớ vị trà sữa ngày xưa." Or mix English: "Coffee is good, but tea is better. Maybe not."
+
+Wait, they want the English to be very basic, like "I'm fine" or "Maybe tomorrow." So perhaps: "Hôm nay trời đẹp. I guess." But "Hôm nay" is overused. Change to "Trời hôm nay đẹp. I guess." Still has "hôm nay". Maybe "Sáng nay mưa nhỏ. Anyway." But "sáng nay" is similar.
+
+Alternatively, focus on a random object: "Chiếc lá rơi chậm chạp. Life goes on." That mixes Vietnamese and English, but "Life goes on" is a bit profound. They said no deep philosophy. Maybe simpler: "Lá rơi. Anyway."
+
+Or use a common phrase: "Đêm nay yên tĩnh. Good night." But "Good night" is a bit formal. They want casual like "Take care" or "See you."
+
+Another idea: "Gió heo may, nhớ nhà ghê. Maybe later." But "nhớ nhà" is emotional, which is allowed, but should be casual.
+
+Wait, the user emphasized no repetition in structure. So I need to vary the sentence structure. Maybe start with a question, or a statement, or a fragmented thought.
+
+Example: "Sao hôm nay trời âm u thế? Whatever." But again, "hôm nay". Change to "Trời âm u thế này. Whatever."
+
+Or use a different theme: "Mùi đất sau mưa. I'm fine, thank you." That mixes two ideas, but might be okay.
+
+But they want only one sentence. So keep it concise. Maybe: "Ánh đèn đường nhấp nháy. Keep going." But "Keep going" is motivational, which they said to avoid.
+
+They listed examples like "Anyway", "Maybe", "Who knows?" which are neutral. So perhaps: "Gió thổi qua, mang theo tiếng lá. Maybe tomorrow."
+
+But "Maybe tomorrow" is a bit hopeful. They want it casual. "Anyway" is safer.
+
+Another approach: Use a random observation without emotion. "Chim bay qua bầu trời. I don't know." But "I don't know" is common.
+
+Or make it slightly poetic but casual: "Sao hôm nay nhiều sao thế? Haha." But "haha" might be too informal, but they allowed ":))" or "Haha."
+
+Wait, they said "thỉnh thoảng" use those, so it's okay occasionally. But need to vary.
+
+Maybe: "Trời mưa rào. Good enough." That's simple.
+
+But let's check the constraints: 3-15 words mostly. "Trời mưa rào. Good enough." is 4 words in Vietnamese, 2 in English. Total 6, which fits.
+
+But they want it to feel random. Maybe add a twist: "Mưa to quá. Anyway." That's 4 words.
+
+Or use a different structure: "Chiếc quạt quay đều. Life is weird." But "Life is weird" might be a bit philosophical. They said no deep thoughts, so maybe avoid.
+
+They listed "Life is weird" as an example, so it's allowed, but should be casual.
+
+Another idea: "Đêm khuya, tiếng dế kêu. Sleep well." But "Sleep well" is a bit caring, which they might consider motivational. They said no advice or encouragement, so avoid.
+
+Stick to neutral phrases. "Anyway", "Maybe", "Who knows?", "I'm fine", "Good morning", etc.
+
+So perhaps: "Gió se lạnh, nhớ áo len. Maybe." That's 6 Vietnamese words, 1 English. Fits.
+
+But "nhớ áo len" is emotional, which is allowed as long as it's casual.
+
+They want it to feel like a random thought, not forced. So maybe something like: "Trời đẹp thế này. I guess." But "I guess" is a bit hesitant.
+
+Alternatively, use a common English phrase mixed in: "Hôm nay trời nắng. I'm fine, thank you." But again, "hôm nay".
+
+Change to "Nắng mai chói chang. Take care." But "Take care" is caring.
+
+They said no advice, so avoid phrases that imply care or motivation.
+
+Stick to neutral or slightly detached. "Anyway", "Whatever", "Maybe", "Who knows?", "I don't know", "Not really", "See you", "Good night", "Good morning", "I'm okay", "It's alright".
+
+So perhaps: "Mưa rơi tí tách. Anyway." That's simple.
+
+Or "Chiều tà, bóng dài. Maybe tomorrow." But "Maybe tomorrow" implies future, which might be okay.
+
+They said "thỉnh thoảng" use those, so it's fine.
+
+Another angle: Use a random object with a casual comment. "Ly cà phê nguội. I'm fine." Or "Sách cũ, giấy vàng. Who knows?"
+
+But "Who knows?" is good.
+
+Or make it slightly poetic but casual: "Lá thu vàng rơi. Life goes on." But "Life goes on" is a bit profound. They listed it as an example, so maybe okay, but they said no deep philosophy. So perhaps avoid.
+
+Stick to simpler. "Gió thổi, lá bay. Anyway."
+
+That's 5 words, neutral.
+
+Or use English primarily? No, 85-90% Vietnamese, so mostly Vietnamese with a bit of English.
+
+So structure: Vietnamese phrase + English phrase, or vice versa, but Vietnamese should dominate.
+
+Example: "Trời âm u, mưa phùn. I'm okay." That's 5 Vietnamese, 2 English. Total 7 words. Fits.
+
+But "I'm okay" is common.
+
+Another idea: "Đêm nay yên tĩnh. Good night." But "Good night" is a greeting, which might imply interaction, but they said no talking to user, so maybe avoid.
+
+They said "nói chuyện với người dùng" is forbidden, so phrases like "Good night" might be seen as addressing someone. So better to use detached phrases.
+
+"Anyway", "Maybe", "Who knows?", "I don't know", "Not really", "See you" – "See you" implies future meeting, which might be okay as a casual remark.
+
+But to be safe, use neutral ones.
+
+Perhaps: "Sao hôm nay nhiều sao thế? Haha." But "haha" is informal, allowed occasionally.
+
+They listed "Haha", "Hehe", ":))", ":>", "¯\_(ツ)_/¯", "..." as occasional, so it's okay.
+
+But need to vary. Maybe use "..." for a pause.
+
+Example: "Trời đẹp. ..." That's two words, but "..." is a punctuation, not a word. They said length 3-15 words, so "Trời đẹp. ..." might be considered 2 words plus punctuation. Maybe not ideal.
+
+Better to have a full sentence. "Gió thổi qua, mang theo mùi đất. Anyway." That's 8 words.
+
+Or "Mưa rơi, tiếng đập cửa. I'm fine, thank you." But "I'm fine, thank you" is a bit formal, but they listed it as an example.
+
+They said "cực kỳ đời thường", so "I'm fine, thank you, and you?" is a classic, but might be too long. They want 3-15 words mostly, so shorter is better.
+
+"Who knows?" is three words, good.
+
+So perhaps: "Trời mưa to. Who knows?" That's 4 words.
+
+Or "Chiều nay đẹp. Maybe." 3 words.
+
+But "chiều nay" has "nay",
 <!--end-->
