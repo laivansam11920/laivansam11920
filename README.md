@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những lời chưa nói, gió thổi qua cửa sổ khiến những chiếc lá nhảy múa trong tâm hồn tôi.
+Mưa rơi nhẹ, gió thổi qua cửa sổ như tiếng nhạc không lời, và tôi chỉ muốn trốn vào chiếc cà phê nóng, ẩn mình trong mưa.
 <!--end-->
