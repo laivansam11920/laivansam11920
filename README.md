@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi nhẹ, gió thổi qua khung cửa sổ, và tôi ngồi đây, chỉ cảm nhận tiếng nắng lấp lánh qua những đám mây như đang nhảy múa.
+Mưa rơi như những giọt cà phê đắng, gió lùa qua cửa sổ, tôi chỉ muốn nắm tay nắng lặng lẽ.
 <!--end-->
