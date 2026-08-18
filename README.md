@@ -1,3 +1,3 @@
 <!--start-->
-Trời đang rơi mưa lụa, gió thổi qua cửa sổ làm tôi cảm thấy như đang lạc vào một bộ phim ngẫu nhiên, “cloudy vibes only.”
+Mưa rơi nhẹ, gió thổi qua cửa sổ, và tôi chỉ muốn ngồi lặng lẽ nhìn mây trôi.
 <!--end-->
