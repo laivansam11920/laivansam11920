@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi nhẹ, gió thổi qua khung cửa sổ, khiến tôi cảm thấy như đang lạc vào một câu chuyện ngẫu nhiên không có mục tiêu.
+Mưa rơi như tiếng nhạc, gió thổi qua khung cửa sổ, và tôi chỉ muốn nắm tay nụ cười của một mây lạc lối.
 <!--end-->
