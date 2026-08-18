@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi nhẹ, gió thổi qua, tôi đứng nhìn, cảm giác như một bức tranh vẽ bằng những giọt nước và nụ cười không lời.
+Mưa rơi như những lời thầm thì, gió thổi qua khung cửa sổ, tôi ngồi lặng lẽ, cảm nhận hơi ẩm của ngày chưa biết tên.
 <!--end-->
