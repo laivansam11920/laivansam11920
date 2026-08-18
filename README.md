@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những lời thơ chưa dứt, gió thổi qua cửa sổ làm rung lắc tâm hồn.
+Mưa rơi nhẹ, gió thổi qua khung cửa sổ, và tôi ngồi đây, chỉ cảm nhận tiếng nắng lấp lánh qua những đám mây như đang nhảy múa.
 <!--end-->
