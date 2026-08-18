@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những giọt cà phê đắng, gió lùa qua cửa sổ, tôi chỉ muốn nắm tay nắng lặng lẽ.
+Mưa rơi nhẹ, gió lùa qua khung cửa sổ, khiến tôi nhớ tới những ngày 2016 đầy mơ màng.
 <!--end-->
