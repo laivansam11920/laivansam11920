@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những lời thầm thì của gió, và tôi chỉ muốn quấn mình trong chiếc áo len cũ, để lắng nghe tiếng mây trôi qua.
+Mưa rơi nhẹ, gió thổi qua cửa sổ, và tôi vẫn quên mất giờ trưa.
 <!--end-->
