@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những lời chưa nói, gió lùa qua khung cửa, tôi chỉ cảm nhận được nỗi nhớ như một mây trôi.
+Mưa rơi nhẹ, gió thổi qua khung cửa sổ, khiến tôi cảm thấy như đang lạc vào một câu chuyện ngẫu nhiên không có mục tiêu.
 <!--end-->
