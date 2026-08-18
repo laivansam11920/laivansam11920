@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những lời chưa nói, gió thổi qua cửa sổ, làm cho tôi cảm thấy như đang lạc trong một bức tranh mờ.
+Trời đang rơi mưa lụa, gió thổi qua cửa sổ làm tôi cảm thấy như đang lạc vào một bộ phim ngẫu nhiên, “cloudy vibes only.”
 <!--end-->
