@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, gió thổi, tôi ngồi nhìn cửa sổ như đang chờ một cơn mưa lãng mạn, nhưng chỉ có những đám mây lặng lẽ lướt qua, như tiếng nhạc vô nghĩa trong tâm hồn.
+Mưa rơi như những lời chưa nói, gió lùa qua khung cửa, tôi chỉ cảm nhận được nỗi nhớ như một mây trôi.
 <!--end-->
