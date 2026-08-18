@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những lời thầm lặng, gió lùa qua cửa sổ, và tôi chỉ mơ rằng trời có thể bật nắng.
+Mưa rơi như những dòng thơ lặng, gió thổi qua cửa sổ, làm nụ cười trôi dạt như lá hồng.
 <!--end-->
