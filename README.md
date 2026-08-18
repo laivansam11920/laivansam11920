@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi nhẹ, gió thổi qua cửa sổ, làm tôi nhớ tới những ngày 2016, khi mọi thứ cứ như một bức ảnh lờ mờ, nhưng vẫn đầy màu sắc.
+Mưa rơi như những lời chưa nói, gió thổi qua cửa sổ, làm cho tôi cảm thấy như đang lạc trong một bức tranh mờ.
 <!--end-->
