@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những lời nói vu vơ, gió thổi qua khung cửa sổ, làm nỗi lòng như trống rỗng giữa những mây trôi.
+Mưa rơi như nhạc cũ, gió thổi qua cửa sổ làm bập bùng những bức tranh mờ mờ trong tâm hồn.
 <!--end-->
