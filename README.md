@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi nhẹ, gió thổi qua kẽ lá như lời nhắc nhớ: có những ngày chỉ cần ngồi yên, ngắm trời mây trôi.
+Mưa rơi như những chiếc lá rơi, gió thổi qua cửa sổ, tôi ngồi lặng lẽ và cảm thấy mình như một con sóng lặng lẽ giữa biển trời.
 <!--end-->
