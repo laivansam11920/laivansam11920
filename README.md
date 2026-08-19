@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những chiếc lá rơi, gió thổi qua cửa sổ, tôi ngồi lặng lẽ và cảm thấy mình như một con sóng lặng lẽ giữa biển trời.
+Mưa rơi nhẹ, gió thổi qua cửa sổ, tôi chỉ muốn một tách cà phê và một nụ cười ngẫu nhiên.
 <!--end-->
