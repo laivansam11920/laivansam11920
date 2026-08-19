@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như những giọt nở hoa, gió thổi qua cửa sổ khiến tôi lắc lư trong mơ.
+Mưa rơi như những lời nói vu vơ, gió thổi qua khung cửa sổ, làm nỗi lòng như trống rỗng giữa những mây trôi.
 <!--end-->
