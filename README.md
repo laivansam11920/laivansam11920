@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi nhẹ, gió thổi qua khung cửa sổ như lời nhắn thầm, và tôi chỉ muốn nói: “Thời tiết hôm nay như tâm trạng của mình, lỏng lẻo nhưng đầy màu sắc.”
+Mưa rơi nhẹ, gió thổi qua kẽ lá như lời nhắc nhớ: có những ngày chỉ cần ngồi yên, ngắm trời mây trôi.
 <!--end-->
