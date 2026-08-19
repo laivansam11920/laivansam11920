@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi như nhạc cũ, gió thổi qua cửa sổ làm bập bùng những bức tranh mờ mờ trong tâm hồn.
+Mưa rơi, gió thổi qua khung cửa sổ, khiến tôi cảm thấy như đang lạc trong một bức tranh mơ màng.
 <!--end-->
