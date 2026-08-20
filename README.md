@@ -1,3 +1,3 @@
 <!--start-->
-Mưa nhẹ rồi!
+Mưa rơi khẽ.
 <!--end-->
