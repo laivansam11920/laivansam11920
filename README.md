@@ -1,3 +1,3 @@
 <!--start-->
-Mưa nặng, gió.
+Mưa rơi nhẹ!
 <!--end-->
