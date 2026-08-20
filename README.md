@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơiđi.
+Mưa rơi nhẹ
 <!--end-->
