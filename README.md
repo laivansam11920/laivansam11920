@@ -1,3 +1,3 @@
 <!--start-->
-Mưa gió, nắng
+Mưa gió.
 <!--end-->
