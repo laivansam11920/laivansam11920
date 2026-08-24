@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi êm
+Mưa rơi nhẹ thôi.
 <!--end-->
