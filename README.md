@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi nhanh.
+Mưa rơi nhẹ!
 <!--end-->
