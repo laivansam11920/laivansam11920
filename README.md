@@ -1,3 +1,3 @@
 <!--start-->
-Mưa nhẹ, gió khẽ.
+Mưa lặng g
 <!--end-->
