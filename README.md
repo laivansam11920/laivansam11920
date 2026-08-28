@@ -1,3 +1,3 @@
 <!--start-->
-Mưa nhẹ x!
+Mưa gió.
 <!--end-->
