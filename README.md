@@ -1,3 +1,3 @@
 <!--start-->
-Mưa nhẹ, tôi nở
+Mưa.
 <!--end-->
