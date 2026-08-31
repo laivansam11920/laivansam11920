@@ -1,3 +1,3 @@
 <!--start-->
-Mưa lặng lẽ, sao?
+Mưa.
 <!--end-->
