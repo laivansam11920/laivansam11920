@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tâm hồn lạc, mây đen
+Mưa rơi, tôi lặng.
 <!--end-->
