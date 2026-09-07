@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tâm hồn bay lạc ngày đêm mắt.
+Mưa rơi, tôi cười.
 <!--end-->
