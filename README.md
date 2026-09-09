@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tôi cười.
+Mưa rơi, tôi mơ.
 <!--end-->
