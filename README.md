@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tôi lặng.
+Mưa rơi, gió thổi trong đêm lạnh, nặng đêm.
 <!--end-->
