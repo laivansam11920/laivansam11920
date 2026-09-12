@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, gió thổi trong đêm lạnh, nặng đêm.
+Mưa nhẹ, gió thổi, trăng lặng đêm độ có.
 <!--end-->
