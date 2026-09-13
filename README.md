@@ -1,3 +1,3 @@
 <!--start-->
-Mưa nhẹ, gió thổi, trăng lặng đêm độ có.
+Mưa rơi, tâm hồn lặng
 <!--end-->
