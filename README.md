@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, trái tim lặng.
+Mưa rơi, tâm hồn lạc.
 <!--end-->
