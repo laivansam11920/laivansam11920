@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tôi lặng.
+Mưa rơi, tôi ngồi lặng.
 <!--end-->
