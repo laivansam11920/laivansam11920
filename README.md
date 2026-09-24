@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi,quên nụ cười.
+Mưa rơi, tâm hồn lặng.
 <!--end-->
