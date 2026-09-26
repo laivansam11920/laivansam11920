@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tim lặng
+Mưa nhẹ, tôi rơi.
 <!--end-->
