@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tôi nở, gió thổi đêm đợi tối!
+Mưa rơi, tâm hồn.
 <!--end-->
