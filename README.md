@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tôi quên.
+Mưa rơi, gió thổi
 <!--end-->
