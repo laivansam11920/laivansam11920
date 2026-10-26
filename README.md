@@ -1,3 +1,3 @@
 <!--start-->
-Mưa rơi, tôi ngồi.
+Mưa rơi, tôi nở, gió hát!
 <!--end-->
