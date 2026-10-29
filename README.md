@@ -1,3 +1,3 @@
 <!--start-->
-Bước qua lối mòn cũ, tôi lắng nghe tiếng gió thở qua tán lá, nhớ một nụ cười như sương mỏng trên tấm cánh gió, chưa bao giờ rời xa.
+Bước qua lối phố vắng, tôi lặng nghe nốt gió thở qua, nhớ tên anh như hơi nước lạnh trên tách cà phê, một mùi hương cũ vẫn chưa phai.
 <!--end-->
