@@ -1,3 +1,3 @@
 <!--start-->
-Bên kia lối phố vắng, ánh nắng chiều lụa, tôi nghe tiếng cơn gió thổi qua, và trong tiếng thở dài ấy là tên em, như mùi cà phê nguội vẫn còn trong hơi thở của ngày.
+Một nốt gió lạnh qua ngõ vắng, tôi lặng lẽ nhớ tên anh trong ánh nắng cuối ngày, như cà phê nguội vẫn đọng vị mặn của em.
 <!--end-->
