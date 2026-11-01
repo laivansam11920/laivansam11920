@@ -1,3 +1,3 @@
 <!--start-->
-Một nốt gió lạnh qua ngõ vắng, tôi lặng lẽ nhớ tên anh trong ánh nắng cuối ngày, như cà phê nguội vẫn đọng vị mặn của em.
+Đêm hoàng hôn rơi, tôi lặng thở giữa phố vắng, nhớ một nụ cười đã tắt như tia nắng cuối ngày.
 <!--end-->
