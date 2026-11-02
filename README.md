@@ -1,3 +1,3 @@
 <!--start-->
-Đêm hoàng hôn rơi, tôi lặng thở giữa phố vắng, nhớ một nụ cười đã tắt như tia nắng cuối ngày.
+Ánh nắng cuối ngày lăn qua vỉa hè, tôi gật đầu, nhớ anh như hơi gió lạnh, vô tình.
 <!--end-->
