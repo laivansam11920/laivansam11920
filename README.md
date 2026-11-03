@@ -1,3 +1,3 @@
 <!--start-->
-Ánh nắng cuối ngày lăn qua vỉa hè, tôi gật đầu, nhớ anh như hơi gió lạnh, vô tình.
+Chiếc tách cà phê nguội giữa phố vắng, hơi thở mưa lặng, tôi vẫn nghe tiếng cánh đồng cũ thở dài, như một ngọn lửa khép lại trong bóng tối của em.
 <!--end-->
